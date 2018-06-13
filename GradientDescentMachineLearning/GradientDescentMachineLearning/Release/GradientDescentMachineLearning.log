@@ -1,0 +1,6 @@
+﻿  Main.cpp
+Main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 113 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GradientDescentMachineLearning.vcxproj -> X:\Mateus\FAC\3rdY\Data&Alg\Project\GradientDescentMachineLearning\Release\GradientDescentMachineLearning.exe

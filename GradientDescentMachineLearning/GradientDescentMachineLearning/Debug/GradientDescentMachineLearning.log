@@ -1,0 +1,4 @@
+﻿  Main.cpp
+x:\mateus\fac\3rdy\data&alg\project\gradientdescentmachinelearning\gradientdescentmachinelearning\main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GradientDescentMachineLearning.vcxproj -> X:\Mateus\FAC\3rdY\Data&Alg\Project\GradientDescentMachineLearning\Debug\GradientDescentMachineLearning.exe
+  GradientDescentMachineLearning.vcxproj -> X:\Mateus\FAC\3rdY\Data&Alg\Project\GradientDescentMachineLearning\Debug\GradientDescentMachineLearning.pdb (Partial PDB)
